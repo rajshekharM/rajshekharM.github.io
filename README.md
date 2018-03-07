@@ -1,15 +1,41 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rajshekharM/rajshekharM.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to Rajshekhar Mukherjee's World !!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Good to meet you here @visitor ! I am happy to show you around  .. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
+
+
+- _So are you interested in checking out some cool projects related to data mining, image processing, deep learning? Or maybe you would like other cool stuff like MATLAB program with Aurduino ?? 
+
+- Feel free to check out all the page for interesting and fun stuff, and keep in touch, if you want for new updates, happenings and craziness in the field of AI, Deep Learning and Data Science.
+
+- You can also surf this place for some cool links about where to start with the basics of deep learning and AI, away from all the hype.
+Or maybe you would like to read about some cool new start-ups on the horizon in this field !! Or, maybe you want to start one of your own ;)_ 
+
+You would find these and much more stuff , so happy exploring !! 
+
+
+'Stay hungry, Stay foolish' 
+
+Links for various Projects :
+
+1. Autonomous vehicles: Object detection and recognition
+2. 
+3. 
+4.
+
+Links for learning resources for 
+
+1. Deep Learning - where to start from ?
+
+2. Artificial Intelligence and Deep Learning - What is all this fuss about ?
+
+3. Data Science - Why should I even be concerened ?
+
 
 # Header 1
 ## Header 2
@@ -21,17 +47,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Stay hungry, Stay foolish` text
 
-[Link](url) and ![Image](src)
+[https://www.facebook.com/datascienceisfun/](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajshekharM/rajshekharM.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
