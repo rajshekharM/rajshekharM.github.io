@@ -46,7 +46,7 @@ Links for learning resources for
 2. List
 
 `Stay hungry, Stay foolish`
-
+Visit my Page for more recent news and articles on Data Science :
 [https://www.facebook.com/datascienceisfun/]
 ```
 
