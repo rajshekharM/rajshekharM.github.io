@@ -21,8 +21,8 @@ You would find these and much more stuff , so happy exploring !!
 
 Links for various Projects :
 
-1. Autonomous vehicles: Object detection and recognition
-2. 
+1. Autonomous vehicles: Object detection and recognition [https://github.com/rajshekharM/vehicle-classifier-and-pedestrian-tracker]
+2. Image and video Watermarking-using-Fuzzy-system [https://github.com/rajshekharM/Watermarking-using-Fuzzy-system]
 3. 
 4.
 
