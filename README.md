@@ -19,8 +19,6 @@ Or maybe you would like to read about some cool new start-ups on the horizon in 
 You would find these and much more stuff , so happy exploring !! 
 
 
-'Stay hungry, Stay foolish' 
-
 Links for various Projects :
 
 1. Autonomous vehicles: Object detection and recognition
@@ -47,9 +45,9 @@ Links for learning resources for
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Stay hungry, Stay foolish` text
+`Stay hungry, Stay foolish`
 
-[https://www.facebook.com/datascienceisfun/](url) and ![Image](src)
+[https://www.facebook.com/datascienceisfun/]
 ```
 
 
