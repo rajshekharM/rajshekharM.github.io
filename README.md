@@ -4,7 +4,7 @@
 
 :: Hot off the block ::
 
-# We welcome all of data science enthusiasts, students and young professionals to check out _Datathon 2018_ taking place at Carleton university, at Ottawa, Canada.#
+## We welcome all of data science enthusiasts, students and young professionals to check out _Datathon 2018_ taking place at Carleton university, at Ottawa, Canada ##
 
 To know about this hot event, go to the official [Datathon2018 website](https://datathon2018.weebly.com)
 
