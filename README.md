@@ -46,7 +46,7 @@ Links for learning resources for :
 
 4. [Python for Data Science : Mathematical approach](https://github.com/rajshekharM/Python-for-Probability-Statistics-and-Machine-Learning)
 
-For more resources on Data Science and updates in this field, do visit [my another webpage](https://rajshekharmukherjee.wordpress.com/hottest-resources/)
+_For more resources on Data Science and updates in this field, do visit [my another webpage](https://rajshekharmukherjee.wordpress.com/hottest-resources/)_.
 
 Visit my Page [Data Science is Fun!](https://www.facebook.com/datascienceisfun) for more recent news and articles on Data Science 
 
