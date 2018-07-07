@@ -46,7 +46,8 @@ Links for learning resources for :
 4. [Python for Data Science : Mathematical approach](https://github.com/rajshekharM/Python-for-Probability-Statistics-and-Machine-Learning)
 
 
-`Stay hungry, Stay foolish`
 
 Visit my Page [Data Science is Fun!](https://www.facebook.com/datascienceisfun) for more recent news and articles on Data Science 
+
+`Stay hungry, Stay foolish`
 
