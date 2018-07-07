@@ -9,7 +9,9 @@
 
 To know about this hot event, go to the official [Datathon2018 website](https://datathon2018.weebly.com)
 
-:::: 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 - _So are you interested in checking out some cool projects related to data mining, image processing, deep learning? 
 Or maybe you would like other cool stuff like MATLAB program with Aurduino ?? 
@@ -23,6 +25,11 @@ Or maybe you would like to read about some cool new start-ups on the horizon in 
 Or, maybe you want to start one of your own ;)
 
 You would find these and much more stuff , so happy exploring !! 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 **Links for various Projects :**
@@ -45,6 +52,11 @@ Links for learning resources for :
 3. Data Science - Why should I even be concerened ?
 
 4. [Python for Data Science : Mathematical approach](https://github.com/rajshekharM/Python-for-Probability-Statistics-and-Machine-Learning)
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 _For more resources on Data Science and updates in this field, do visit [my another webpage](https://rajshekharmukherjee.wordpress.com/hottest-resources/)_.
