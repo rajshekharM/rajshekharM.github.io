@@ -11,7 +11,7 @@
 
 **We welcome all of data science enthusiasts, students and young professionals to check out _Datathon 2018_ taking place at Carleton university, at Ottawa, Canada.**
 
-To know about this hot event, go to the official [Datathon2018 website](https://datathon2018.weebly.com/)
+To know about this hot event, go to the official [Datathon2018 website](https://datathon2018.weebly.com)
 
 :::: 
 
@@ -56,7 +56,7 @@ Links for learning resources for
 
 `Stay hungry, Stay foolish`
 Visit my Page for more recent news and articles on Data Science :
-[Data Science is Fun!](https://www.facebook.com/datascienceisfun/)
+[Data Science is Fun!](https://www.facebook.com/datascienceisfun)
 
 ```
 
