@@ -1,12 +1,7 @@
+## Welcome to Rajshekhar Mukherjee's World !!! ##
 
-# Welcome to Rajshekhar Mukherjee's World !!!
+# Good to meet you here @visitor ! I am happy to show you around .. #
 
-
-## Good to meet you here @visitor ! I am happy to show you around  .. 
-
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-
-```markdown
 :: Hot off the block ::
 
 **We welcome all of data science enthusiasts, students and young professionals to check out _Datathon 2018_ taking place at Carleton university, at Ottawa, Canada.**
@@ -15,24 +10,21 @@ To know about this hot event, go to the official [Datathon2018 website](https://
 
 :::: 
 
-- _So are you interested in checking out some cool projects related to data mining, image processing, 
-deep learning? 
+- _So are you interested in checking out some cool projects related to data mining, image processing, deep learning? 
 Or maybe you would like other cool stuff like MATLAB program with Aurduino ?? 
 
-- Feel free to check out all the page for interesting and fun stuff, and keep in touch,
-if you want for new updates,
+- Feel free to check out all the page for interesting and fun stuff, and keep in touch, if you want for new updates,
 happenings and craziness in the field of AI, Deep Learning and Data Science.
 
-- You can also surf this place for some cool links about where to start with the basics of 
-deep learning and AI, 
+- You can also surf this place for some cool links about where to start with the basics of deep learning and AI, 
 away from all the hype.
 Or maybe you would like to read about some cool new start-ups on the horizon in this field !! 
-Or, maybe you want to start one of your own ;)_ 
+Or, maybe you want to start one of your own ;)
 
 You would find these and much more stuff , so happy exploring !! 
 
 
-Links for various Projects :
+**Links for various Projects :**
 
 1. [Autonomous vehicles: Object detection and recognition](https://github.com/rajshekharM/vehicle-classifier-and-pedestrian-tracker)
 
@@ -43,7 +35,7 @@ using Motion JPEG](https://github.com/rajshekharM/Watermark-and-motion-jpeg-comp
 
 4. [Extracting, plotting and filtering heart beat frequency from raw videos](https://github.com/rajshekharM/Heart-beat-frequency-extracted-from-videos-)
 
-Links for learning resources for 
+Links for learning resources for :
 
 1. Deep Learning - where to start from ?
 
@@ -57,7 +49,3 @@ Links for learning resources for
 `Stay hungry, Stay foolish`
 Visit my Page for more recent news and articles on Data Science :
 [Data Science is Fun!](https://www.facebook.com/datascienceisfun)
-
-```
-
-
