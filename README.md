@@ -10,7 +10,7 @@
 To know about this hot event, go to the official [Datathon2018 website](https://datathon2018.weebly.com)
 
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+----------------------------------------------------------------------------------------------------------------------------------------
 
 
 - _So are you interested in checking out some cool projects related to data mining, image processing, deep learning? 
