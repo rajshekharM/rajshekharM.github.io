@@ -1,6 +1,7 @@
 # Welcome to Rajshekhar Mukherjee's World !!! #
 
 ## Good to meet you here @visitor ! I am happy to show you around .. ##
+(Do visit [my another home](https://rajshekharmukherjee.wordpress.com/) with even more fun stuff to play around with !!)
 
 :: Hot off the block ::
 
@@ -45,7 +46,7 @@ Links for learning resources for :
 
 4. [Python for Data Science : Mathematical approach](https://github.com/rajshekharM/Python-for-Probability-Statistics-and-Machine-Learning)
 
-
+For more resources on Data Science and updates in this field, do visit [my another webpage](https://rajshekharmukherjee.wordpress.com/hottest-resources/)
 
 Visit my Page [Data Science is Fun!](https://www.facebook.com/datascienceisfun) for more recent news and articles on Data Science 
 
